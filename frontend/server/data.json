@@ -1,0 +1,34 @@
+{
+  "parking_lots": [
+    {
+      "id": 1,
+      "name": "Estacionamento vertical",
+      "numberOfParkingSpaces": 20,
+      "availableParkingSpaces": 20,
+      "timeOpening": "08:00",
+      "timeClosing": "18:00",
+      "latitude": -22.469912,
+      "longitude": -43.8263357,
+      "priceHour": 5.00,
+      "pricePiecoins": 50,
+      "images": [
+        { "id": 1, "url": "../../assets/verticalParking.jpg"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Garagem do Nikolas",
+      "numberOfParkingSpaces": 2,
+      "availableParkingSpaces": 2,
+      "timeOpening": "08:00",
+      "timeClosing": "18:00",
+      "latitude": -22.4774491,
+      "longitude": -43.816826,
+      "priceHour": 7.00,
+      "pricePiecoins": 50,
+      "images": [
+        { "id": 1, "url": "../../assets/verticalParking.jpg"}
+      ]
+    }
+  ]
+}
